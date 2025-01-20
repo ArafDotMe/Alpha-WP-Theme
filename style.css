@@ -68,3 +68,7 @@ h2.post-title {
 .tags li {
   color: #3d9970;
 }
+
+img {
+  width: 100%;
+}
